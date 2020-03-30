@@ -13,7 +13,7 @@
 
 service: next-train
 # app and org for use with dashboard.serverless.com
-app: next-train
+app: platforms
 org: ejzimmer
 
 # You can pin your service to only deploy with a specific Serverless version
